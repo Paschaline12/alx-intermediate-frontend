@@ -1,0 +1,5 @@
+1. Installed Node.js (LTS version) on Windows.
+2. Verified Node.js installation using `node -v` and `npm -v`.
+3. Installed Sass using `npm install sass`.
+4. Verified Sass installation using `npx sass --version`.
+
